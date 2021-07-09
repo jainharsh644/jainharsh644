@@ -3,6 +3,7 @@
 I'm a self-taught Machine Learning Engineer and a Computer Science graduate from India. I have done my engineering from MNMJEC Chennai with a CGPA of 8.92.
 
 Developing and Debugging Machine Learning and Deep Learning models sums up my daily work. 
+
 🏆 I am currently a Kaggle Notebooks Master and Discussions  Expert. 
 
 🏆 Achieving #142 as the highest rank (which makes me stand in the top-150 out of 174,000+) on Notebooks (Kernels) is proof of my Python, Machine Learning, Deep Learning, and Exploratory Data Analysis skills.
