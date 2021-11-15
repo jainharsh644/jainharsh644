@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Burhanuddin Rashid!](http://burhanrashid52.com) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=burhanrashid52&label=Views&color=blue&style=plastic" alt="burhanrashid52" /> </a>
+## Hey, I'm [Harsh Jain!](https://jainharsh644.github.io/harsh/) 👋
 
 <h1><strong>Hi, I'm Harsh Jain</strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
