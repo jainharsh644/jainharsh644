@@ -14,7 +14,6 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
 
 <br/>
-<br/>
 <h2>🚀 Some things you should know 👇</h3>
 
 <ul>
