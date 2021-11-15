@@ -1,4 +1,4 @@
-### Hola, I'm Harsh Jain 👋
+### Hello There 👋, I'm Harsh Jain 
 
 I'm a self-taught Machine Learning Engineer and a Computer Science graduate from India. I have done my engineering from MNMJEC Chennai with a CGPA of 8.92.
 
