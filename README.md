@@ -6,7 +6,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <br/>
 <br/>
 
-[![GitHub](https://img.shields.io/badge/-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/jainharsh644) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
+[![GitHub](https://img.shields.io/badge/-GITHUB-grey?style=for-the-badge&logo=github)](https://github.com/jainharsh644) [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
 [![Kaggle](https://img.shields.io/badge/MY%20PROFILE-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/harshjain123/code?scroll=true)
 <br/>
