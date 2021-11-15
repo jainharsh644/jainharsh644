@@ -19,7 +19,6 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <ul>
 <li>👨‍💻 Incoming <strong>Graduate Student</strong> at <strong>Texas State University, San Marcos TX</strong>.</li>
 <li>🔭 I’m currently working on <strong>DSA-with-JAVA</strong>.</li>
-<li>🌱 I’m currently learning <strong>Azure, AzureML</strong></li>
 <li>🏆 I am a <strong> Kaggle Notebooks Master and Discussions Expert.</strong> Achieving #142 as the highest rank (which makes me stand in the top-150 out of 174,000+) on Notebooks (Kernels) is proof of my Python, Machine Learning, Deep Learning, and Exploratory Data Analysis skills.</li>
 <li>☁  Worked as a <strong>Machine Learning Intern</strong> at <strong>VeCare</strong> and <strong>Internship Studio</strong>.</li>
 <li>👨‍🎓 Life - long learner. I share everything I learnt because I believe sharing is best method to increase our expertise.</li>
@@ -39,7 +38,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </div>
 
-<h2>👨‍💻 Upskilling</h3>
+<h2>🌱 Upskilling</h3>
 <div>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
