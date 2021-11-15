@@ -20,7 +20,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <li>🔭 I’m currently working on <strong>DSA-with-JAVA</strong>.</li>
 <li>🏆 I am a <strong> Kaggle Notebooks Master and Discussions Expert.</strong> Achieving #142 as the highest rank (which makes me stand in the top-150 out of 174,000+) on Notebooks (Kernels) is proof of my Python, Machine Learning, Deep Learning, and Exploratory Data Analysis skills.</li>
 <li>☁  Worked as a <strong>Machine Learning Intern</strong> at <strong>VeCare</strong> and <strong>Internship Studio</strong>.</li>
-<li>🎖 I'm AZ-900, AI-900, DP-900, Tableau Desktop Certified.</li>
+    <li>🎖 I'm <strong>AZ-900, AI-900, DP-900, Tableau Desktop</strong> Certified.</li>
 </ul>
 <h2>👨‍💻 Tech Skills</h3>
 <div>
