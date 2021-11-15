@@ -8,7 +8,8 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/jainharsh644) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
-
+<br/>
+<h3>🚀 Some things you should know 👇</h3>
 
 🏆 I am currently a Kaggle Notebooks Master and Discussions  Expert. 
 
