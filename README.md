@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Harsh Jain!](https://jainharsh644.github.io/harsh/) 👋
+# Hey, I'm [Harsh Jain!](https://jainharsh644.github.io/harsh/) 👋
 
 I'm a self-taught Machine Learning Engineer and a Computer Science graduate from India. Developing and Debugging Machine Learning and Deep Learning models sums up my daily work😎.
 <br/>
@@ -10,7 +10,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
 <br/>
 <br/>
-<h3>🚀 Some things you should know 👇</h3>
+<h2>🚀 Some things you should know 👇</h3>
 
 <ul>
 <li>👨‍💻 Incoming <strong>Graduate</strong> at <strong>Texas State University</strong>.</li>
@@ -21,7 +21,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <li>👨‍🎓 Life - long learner. I share everything I learnt because I believe sharing is best method to increase our expertise.</li>
 </ul>
 
-<h3>Tech Skills👨‍💻</h3>
+<h2>👨‍💻 Tech Skills</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
