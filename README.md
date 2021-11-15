@@ -9,11 +9,16 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/jainharsh644) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
 <br/>
+<br/>
 <h3>🚀 Some things you should know 👇</h3>
 
-🏆 I am currently a Kaggle Notebooks Master and Discussions  Expert. 
+<ul>
+<li>👨‍💻 Incoming <em>Graduate</em> at <strong>Texas State University</strong>.</li>
+<li>🏆 I am currently a <em> Kaggle Notebooks Master and Discussions Expert.</em>Achieving #142 as the highest rank (which makes me stand in the top-150 out of 174,000+) on Notebooks (Kernels) is proof of my Python, Machine Learning, Deep Learning, and Exploratory Data Analysis skills.</li>
+<li>☁  Worked as a <em>Data Scientist</em> at <strong>Accenture</strong> for more than a year.</li>
+<li>👨‍🎓 Life - long learner. I share everything I learnt because I believe sharing is best method to increase our expertise.</li>
+</ul>
 
-🏆 Achieving #142 as the highest rank (which makes me stand in the top-150 out of 174,000+) on Notebooks (Kernels) is proof of my Python, Machine Learning, Deep Learning, and Exploratory Data Analysis skills.
 
 🏆 5 ⭐ HackerRank Python Programmer.
 
