@@ -44,7 +44,5 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <a href="https://github.com/jainharsh644">
 <div >
     <img alt="Harsh-Jain's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jainharsh644&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainharsh644&layout=compact&theme=radical"  width="350px" alt="jainharsh644">
 </div>
