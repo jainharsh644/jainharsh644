@@ -1,8 +1,13 @@
-### Hello There 👋, I'm Harsh Jain 
+<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm a self-taught Machine Learning Engineer and a Computer Science graduate from India. I have done my engineering from MNMJEC Chennai with a CGPA of 8.92.
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-Developing and Debugging Machine Learning and Deep Learning models sums up my daily work. 
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/jainharsh644) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
+ 
+I am Harsh Jain 🧔
+
+I'm a self-taught Machine Learning Engineer and a Computer Science graduate from India. Developing and Debugging Machine Learning and Deep Learning models sums up my daily work😎.
 
 🏆 I am currently a Kaggle Notebooks Master and Discussions  Expert. 
 
