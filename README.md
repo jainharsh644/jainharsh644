@@ -12,7 +12,6 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 [![Medium](https://img.shields.io/badge/FollowMe-MEDIUM-orange?style=for-the-badge&logo=medium)](https://jainharsh644.medium.com/)
 [![Linkedin](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
 [![Contact](https://img.shields.io/badge/Contact-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
-
 <br/>
 <h2>🚀 Some things you should know 👇</h3>
 
@@ -23,7 +22,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <li>🏆 I am a <strong> Kaggle Notebooks Master and Discussions Expert.</strong> Achieving #142 as the highest rank (which makes me stand in the top-150 out of 174,000+) on Notebooks (Kernels) is proof of my Python, Machine Learning, Deep Learning, and Exploratory Data Analysis skills.</li>
 <li>☁  Worked as a <strong>Machine Learning Intern</strong> at <strong>VeCare</strong> and <strong>Internship Studio</strong>.</li>
 </ul>
-
+</br>
 <h2>👨‍💻 Tech Skills</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
