@@ -12,7 +12,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 [![Medium](https://img.shields.io/badge/FollowMe-MEDIUM-orange?style=for-the-badge&logo=medium)](https://jainharsh644.medium.com/)
 [![Linkedin](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
 [![Contact](https://img.shields.io/badge/Contact-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
-<br/>
+
 <h2>🚀 Some things you should know 👇</h3>
 
 <ul>
