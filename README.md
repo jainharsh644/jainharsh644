@@ -1,3 +1,7 @@
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+
+## Hey, I'm [Burhanuddin Rashid!](http://burhanrashid52.com) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=burhanrashid52&label=Views&color=blue&style=plastic" alt="burhanrashid52" /> </a>
+
 <h1><strong>Hi, I'm Harsh Jain</strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/jainharsh644) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
