@@ -19,3 +19,6 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 🏆 I have completed 10+ courses on Machine learning with python, Data analysis, Data visualization, SQL, Deep learning and, NLP from Coursera and, also done certifications from reputed websites.
 
 🏆 I also write blogs related to machine learning on medium.com.
+
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jainharsh644&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
