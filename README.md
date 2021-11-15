@@ -24,7 +24,6 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <li>👨‍🎓 Life - long learner. I share everything I learnt because I believe sharing is best method to increase our expertise.</li>
 </ul>
 <br/>
-<br/>
 <h2>👨‍💻 Tech Skills</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
@@ -38,7 +37,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </div>
-
+<br/>
 <h2>🌱 Upskilling</h3>
 <div>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
