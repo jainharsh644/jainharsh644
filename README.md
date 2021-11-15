@@ -39,12 +39,3 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/> 
 </div>
-
-<br/>
-
-<a href="https://github.com/jainharsh644">
- <img alt="Harsh-Jain's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jainharsh644&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-<a href="https://github.com/jainharsh644">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainharsh644&layout=compact&theme=radical" height="192px" alt="jainharsh644">
-</a>
