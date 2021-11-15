@@ -18,7 +18,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <h2>🚀 Some things you should know 👇</h3>
 
 <ul>
-<li>👨‍💻 Incoming <strong>Graduate</strong> at <strong>Texas State University</strong>.</li>
+<li>👨‍💻 Incoming <strong>Graduate Student</strong> at <strong>Texas State University, San Marcos TX</strong>.</li>
 <li>🔭 I’m currently working on <strong>DSA-with-JAVA</strong>.</li>
 <li>🌱 I’m currently learning <strong>Azure, AzureML</strong></li>
 <li>🏆 I am a <strong> Kaggle Notebooks Master and Discussions Expert.</strong> Achieving #142 as the highest rank (which makes me stand in the top-150 out of 174,000+) on Notebooks (Kernels) is proof of my Python, Machine Learning, Deep Learning, and Exploratory Data Analysis skills.</li>
