@@ -47,8 +47,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<h3>🦄 While I am not doing Data Science 😉</h3>
-
+<h3>While I am not doing Data Science 😉</h3>
 <ul>
 <li>I learn and do Trading 📈</li>
 <li>Watch some series on OTT 🍿</li>
