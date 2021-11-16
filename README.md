@@ -48,9 +48,6 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 </div>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jainharsh644&hide_title=true&hide_border=true&theme=algolia" alt="jainharsh644 codersrank stat" /></p>
-<br />
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainharsh644&show_icons=true&locale=en&theme=algolia" alt="jainharsh644" />
 </p>
