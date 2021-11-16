@@ -46,3 +46,16 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jainharsh644&hide_title=true&hide_border=true&theme=algolia" alt="jainharsh644 codersrank stat" /></p>
+<br />
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainharsh644&show_icons=true&locale=en&theme=algolia" alt="jainharsh644" />
+</p>
+<br />
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainharsh644&theme=algolia&hide_border=true" alt="jainharsh644" />
+</p>
