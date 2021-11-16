@@ -48,7 +48,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 </div>
 
 <h2>📈 Github Stats</h2>
-
+<br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainharsh644&show_icons=true&locale=en&theme=algolia" alt="jainharsh644" />
 </p>
