@@ -39,7 +39,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
     <img src="https://img.shields.io/badge/exploratorydataanalysis-%23FF6F00.svg?style=for-the-badge&logo=data&logoColor=white">
     <img src="https://img.shields.io/badge/deeplearning-%23013243.svg?style=for-the-badge&logo=data&logoColor=white">
 </div>
-<br/>
+
 <h2>🌱 Upskilling</h3>
 <div>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
