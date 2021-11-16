@@ -63,4 +63,4 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jainharsh644&repo=namaste-javascript-notes&show_owner=true&theme=algolia)](https://github.com/jainharsh644/Feature-Engineering-in-ML)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jainharsh644&repo=express-server-boilerplate&show_owner=true&theme=algolia)](https://github.com/jainharsh644/Hyper-Parameter-Tuning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jainharsh644&repo=express-server-boilerplate-auth&show_owner=true&theme=algolia)](https://github.com/jainharsh644/Statistics-for-DS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/jainharsh644/Let-s-Balance-our-Data-All-Techniques)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jainharsh644carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/jainharsh644/Let-s-Balance-our-Data-All-Techniques)
