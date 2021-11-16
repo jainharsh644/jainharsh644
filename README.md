@@ -47,6 +47,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+<h2>📈 Github Stats</h2>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainharsh644&show_icons=true&locale=en&theme=algolia" alt="jainharsh644" />
