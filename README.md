@@ -22,7 +22,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <li>☁  Worked as a <strong>Machine Learning Intern</strong> at <strong>VeCare</strong> and <strong>Internship Studio</strong>.</li>
     <li>🎖 I'm <strong>AZ-900, AI-900, DP-900, Tableau Desktop</strong> Certified.</li>
 </ul>
-<h2>👨‍💻 Tech Skills</h3>
+<h2>👨‍💻 Tech Skills</h2>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
