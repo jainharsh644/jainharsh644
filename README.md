@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-</br>
-<h1>Hey, I'm [Harsh Jain!](https://jainharsh644.github.io/harsh/) 👋</h1>
+
+# Hey, I'm [Harsh Jain!](https://jainharsh644.github.io/harsh/) 👋
 
 I'm a self-taught Machine Learning Engineer and a Computer Science graduate from India. Developing and Debugging Machine Learning and Deep Learning models sums up my daily work😎.
 <br/>
