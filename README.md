@@ -13,7 +13,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 [![Linkedin](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-jain-6b4502169/) 
 [![Contact](https://img.shields.io/badge/Contact-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
 
-<h2>🚀 Some things you should know 👇</h3>
+<h2> Some things you should know 👇</h3>
 <ul>
 <li>👨‍🎓 Busy <b>TORTURING</b> the <b>DATA</b> until it <b>REVEALS INSIGHTS</b> 💯.</li>
 <li>🔭 I’m currently working on <strong>DSA-with-JAVA</strong>.</li>
@@ -21,7 +21,7 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
 <li>☁  Worked as a <strong>Machine Learning Intern</strong> at <strong>VeCare</strong> and <strong>Internship Studio</strong>.</li>
     <li>🎖 I'm <strong>AZ-900, AI-900, DP-900, Tableau Desktop</strong> Certified.</li>
 </ul>
-<h2>👨‍💻 Tech Skills</h2>
+<h2> Tech Skills 👨‍💻 </h2>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -39,14 +39,14 @@ I'm a self-taught Machine Learning Engineer and a Computer Science graduate from
     <img src="https://img.shields.io/badge/deeplearning-%23013243.svg?style=for-the-badge&logo=data&logoColor=white">
 </div>
 
-<h3>🌱 Upskilling</h3>
+<h3> Upskilling 🌱</h3>
 <div>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<h2>📈 Github Stats</h2>
+<h2> Github Stats📈 </h2>
 <br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainharsh644&show_icons=true&locale=en&theme=algolia" alt="jainharsh644" />
