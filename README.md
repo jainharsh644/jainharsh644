@@ -31,40 +31,14 @@ Data Explorer | Problem Solver | Code Enthusiast
 - 🔍 Delving into the realms of Deep Learning and NLP with PyTorch.
 - 🌐 Solving real-world problems through data-driven solutions.
 
-## 🎓 Education & Courses 🎓
-- MS in Data Analytics and Information Systems, Texas State University (08/2022 – 12/2023) | CGPA: 4.0
-- B.E - Computer Science, Anna University (09/2017 – 08/2021) | CGPA: 9.0
-- Microsoft Certified Trainer | Microsoft Azure Fundamentals (AZ-900) | Microsoft Azure Administrator (AZ-104) | Tableau Desktop Professional Certified
-
-## ☁ Azure Certifications ☁
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-
-## 🚀 Professional Experience 🚀
-- Data Scientist Co-Op, The Mosaic Company
-  - Developed Python scripts for efficient data retrieval, reducing time by 24%.
-  - Implemented real-time image processing with trained models, boosting accuracy by 13%.
-  
-## 📚 Courses 📚
-- Machine Learning Engineer Nanodegree, Udacity
-  - Mastered advanced ML techniques and deployed models for real-world applications.
-- Data Engineering Nanodegree, Udacity
-  - Designed data models, built data warehouses, and optimized data pipelines.
-
 ## 🌌 GitHub Highlights 🌌
 - [Kaggle Notebooks Master](https://www.kaggle.com/harshjain123) | Top 150 out of 174,000+ contributors.
 - [Medium](https://jainharsh644.medium.com/) | Sharing insights and knowledge about the data universe.
 
 ## 👨‍💻 Tech Toolbox 👨‍💻
 - Languages & Libraries: Python, R, Java, PySpark, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch
-- Databases/Frameworks: MySQL, PostgreSQL, MongoDB, AWS, Git
+- Databases/Frameworks: MySQL, PostgreSQL, MongoDB, Azure, AWS, Git, Jira, Azure Devops
 - Core Competencies: Data Analysis, Visualization, Machine Learning, Deep Learning, NLP
-
-## 🎨 Colorful Data Magic 🎨
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainharsh644&theme=radical&hide=Jupyter Notebook">
-</p>
 
 ## 🤝 Let's Connect and Collaborate 🤝
 Let's embark on a data-driven journey together, shaping the future with insights and innovation!
