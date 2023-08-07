@@ -3,14 +3,10 @@
     <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 </div>
 
-<!-- Centered main content -->
-<div align="center">
-
+<!-- Main content -->
 # Hello, I'm [Harsh Jain!](https://jainharsh644.github.io/harsh/) 👋
 
 Data Explorer | Problem Solver | Code Enthusiast
-
-</div>
 
 ## About Me 🧠
 🎓 Computer Science Graduate | MS in Data Analytics and Information Systems
@@ -26,14 +22,14 @@ Data Explorer | Problem Solver | Code Enthusiast
 [![Contact](https://img.shields.io/badge/Contact-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainharsh644@gmail.com)
 
 ## 🚀 Data Science and Engineering 🚀
-- Exploring the world of data through Python, R, and Java.
-- Transforming raw data into valuable insights using Pandas and Numpy.
-- Creating visual masterpieces with Matplotlib and Seaborn.
+- 🌟 Exploring the world of data through Python, R, and Java.
+- 📊 Transforming raw data into valuable insights using Pandas and Numpy.
+- 📈 Creating visual masterpieces with Matplotlib and Seaborn.
 
 ## 📈 Machine Learning Enthusiast 📈
-- Developing predictive models with Scikit-Learn and TensorFlow.
-- Delving into the realms of Deep Learning and NLP with PyTorch.
-- Solving real-world problems through data-driven solutions.
+- 🤖 Developing predictive models with Scikit-Learn and TensorFlow.
+- 🔍 Delving into the realms of Deep Learning and NLP with PyTorch.
+- 🌐 Solving real-world problems through data-driven solutions.
 
 ## 🌌 GitHub Highlights 🌌
 - [Kaggle Notebooks Master](https://www.kaggle.com/harshjain123) | Top 150 out of 174,000+ contributors.
@@ -44,11 +40,16 @@ Data Explorer | Problem Solver | Code Enthusiast
 - Databases/Frameworks: MySQL, PostgreSQL, MongoDB, AWS, Git
 - Core Competencies: Data Analysis, Visualization, Machine Learning, Deep Learning, NLP
 
+## 🎨 Colorful Data Magic 🎨
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainharsh644&theme=radical&hide=Jupyter Notebook">
+</p>
+
 ## 🤝 Let's Connect and Collaborate 🤝
 Let's embark on a data-driven journey together, shaping the future with insights and innovation!
 
 <!-- Adding GitHub and Streak stats -->
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainharsh644&show_icons=true&locale=en&theme=algolia" alt="jainharsh644" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainharsh644&theme=algolia&hide_border=true" alt="jainharsh644" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainharsh644&show_icons=true&locale=en&theme=radical" alt="jainharsh644" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainharsh644&theme=radical&hide_border=true" alt="jainharsh644" />
 </div>
