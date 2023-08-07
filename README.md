@@ -3,10 +3,14 @@
     <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 </div>
 
-<!-- Main content -->
+<!-- Centered main content -->
+<div align="center">
+
 # Hello, I'm [Harsh Jain!](https://jainharsh644.github.io/harsh/) 👋
 
 Data Explorer | Problem Solver | Code Enthusiast
+
+</div>
 
 ## About Me 🧠
 🎓 Computer Science Graduate | MS in Data Analytics and Information Systems
